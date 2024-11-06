@@ -49,7 +49,7 @@ _**Customer lifecycle:**_
 - Early months show highest churn risk (around 60% in first few months)
 - Churn risk steadily decreases with account length
 - After 40 months, churn risk stabilizes at a lower level
-_
+
   **Service Usage and Payment Patterns**_
   
 ![Chun Rate_Extra Charges and Customer Service Dashboard](https://github.com/user-attachments/assets/7f8260b9-5dc4-41d5-a7e5-cb510018f49f)
