@@ -1,3 +1,7 @@
+**CUSTOMER CHUN ANALYSIS FOR A TELECOM COMPANY**
+
+Churn prediction means detecting which customers are likely to leave a service or to cancel a subscription to a service. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones. Once you can identify those customers that are at risk of cancelling, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
+
 **OBJECTIVE:** To identify key drivers of customer churn and develop data-driven recommendations for improving customer retention. 
 
 **Key Focus Areas:**
