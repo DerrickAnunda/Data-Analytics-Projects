@@ -1,11 +1,11 @@
 **OBJECTIVE:** To identify key drivers of customer churn and develop data-driven recommendations for improving customer retention. 
 
 **Key Focus Areas:**
-Customer Demographics & Segmentation
-Contract Type Analysis
-Service Usage Patterns
-Payment Methods
-Customer Service Interactions
+- Customer Demographics & Segmentation
+- Contract Type Analysis
+- Service Usage Patterns
+- Payment Methods
+- Customer Service Interactions
 
 **Tools**
 - Excel
