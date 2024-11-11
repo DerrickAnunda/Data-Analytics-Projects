@@ -80,18 +80,18 @@ _**opportunities for improvement**_
 
 
 **2. EMPLOYEE ANALYTICS AND ATTRITION PREDICTION MODEL**
-I developed an attrition model in Python with 78% accuracy. After importing the dataset, I conducted a thorough ETL process to enhance model accuracy and ensure effective exploratory data analysis (EDA) 📊.
+I developed an attrition model in Python with 78% accuracy. After importing the dataset, I conducted a thorough ETL process to enhance model accuracy and ensure effective exploratory data analysis (EDA).
 
 Key data points include:
 
-- _**Satisfaction Levels Distribution:**_ Analyzed employee satisfaction, highlighting that lower satisfaction correlates with higher attrition 😟.
--  _**Previous Evaluations Distribution:**_ Examined performance ratings, indicating a link between lower evaluations and employee exits 📉.
-- _ **Exit Distribution:**_ Assessed the proportion of employees leaving versus those staying, revealing patterns common among leavers 🚪.
-- _**Years Worked Distribution:**_ Analyzed tenure, suggesting employees may leave after specific milestones (e.g., 2-3 years) ⏳.
-- _**Satisfaction vs. Earnings by Department:**_ The bar plot herein compares satisfaction and earnings shows departments with low satisfaction may face higher attrition 📈.
-- _**Correlation Between Variables:** _Visualized the relationship among factors like salary, satisfaction, and evaluations, identifying key predictors of attrition 🔍.
-- _**Pairplot of Relationships:**_ Visualized multiple variable relationships to pinpoint combinations indicative of potential exits 🔗.
+- _**Satisfaction Levels Distribution:**_ Analyzed employee satisfaction, highlighting that lower satisfaction correlates with higher attrition.
+-  _**Previous Evaluations Distribution:**_ Examined performance ratings, indicating a link between lower evaluations and employee exits.
+- _ **Exit Distribution:**_ Assessed the proportion of employees leaving versus those staying, revealing patterns common among leavers.
+- _**Years Worked Distribution:**_ Analyzed tenure, suggesting employees may leave after specific milestones (e.g., 2-3 years).
+- _**Satisfaction vs. Earnings by Department:**_ The bar plot herein compares satisfaction and earnings shows departments with low satisfaction may face higher attrition.
+- _**Correlation Between Variables:** _Visualized the relationship among factors like salary, satisfaction, and evaluations, identifying key predictors of attrition.
+- _**Pairplot of Relationships:**_ Visualized multiple variable relationships to pinpoint combinations indicative of potential exits.
 
-These analyses help HR identify areas to improve retention, such as boosting employee satisfaction 👍 , recommending further employee psychoanalysis, and refining performance evaluation procedures.
+These analyses help HR identify areas to improve retention, such as boosting employee satisfaction, recommending further employee psychoanalysis, and refining performance evaluation procedures.
 
 Data source: https://lnkd.in/dTvZBhnC
