@@ -80,6 +80,7 @@ _**opportunities for improvement**_
 
 
 **2. EMPLOYEE ANALYTICS AND ATTRITION PREDICTION MODEL**
+
 I developed an attrition model in Python with 78% accuracy. After importing the dataset, I conducted a thorough ETL process to enhance model accuracy and ensure effective exploratory data analysis (EDA).
 
 Key data points include:
